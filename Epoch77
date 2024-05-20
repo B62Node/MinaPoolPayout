@@ -1,1 +1,30 @@
+Working for configured Epoch: 77 for Fork: 0
+Epoch Minimum Height: 351475 - Epoch Maximum Height: 355560
+This script will payout from block 351475 to maximum height 355560
+Processing mina pool payout for block producer key: B62qmqprUwxHxG6uGDQe48Xys9diJhunEqQNRuFC5a1KBUNsDaNADgj
+The pool total staking balance is 186877.25894598803
+We won these blocks: 355369
+The Total Payout is: 1441125667598 nm or 1441.125667598 mina
 
+
+┌─────────┬───────────────────────────────────────────────────────────┬──────────────┬─────────┬───────────────┬─────────┐
+│ (index) │ publicKey                                                 │ amount       │ fee     │ amountMina    │ feeMina │
+├─────────┼───────────────────────────────────────────────────────────┼──────────────┼─────────┼───────────────┼─────────┤
+│ 0       │ 'B62qqNPo7NvJV7p8gYbrbMz6ykEB1S99fnKJWm7rargkKk42qTs11MN' │ 580085546574 │ 1000000 │ 580.085546574 │ 0.001   │ 
+│ 1       │ 'B62qiUp4Cu4bnofr9AdorbHXkywxQrvFPK4sn3rzPJvSr1wnfEHPiiT' │ 419839744805 │ 1000000 │ 419.839744805 │ 0.001   │ 
+│ 2       │ 'B62qn16hB2bBZPJcUQycJ74cbt6MGNXhF2rxBSnTbANiqFRHCBpfzVR' │ 150934094867 │ 1000000 │ 150.934094867 │ 0.001   │ 
+│ 3       │ 'B62qnLw4CxKpWELxNFQVPqszMYVQh1yWvU6bbwagiUFDtsg1A3t3xnx' │ 121152973163 │ 1000000 │ 121.152973163 │ 0.001   │ 
+│ 4       │ 'B62qpwLQcUpYcn7RqDkDHGxAoWwy5AZ9uSab9s5YtwBXcAow81nLhEk' │ 73923359799  │ 1000000 │ 73.923359799  │ 0.001   │ 
+│ 5       │ 'B62qitncPRoGgcufdUJdbJ1CooTz7fQuttqxBM48toKiq9ZqHPJyLpW' │ 73236526047  │ 1000000 │ 73.236526047  │ 0.001   │
+│ 6       │ 'B62qqUZUSz1Ly92NRapXt8ELynCK9wYNqAFtJaK9enFPLFEuaz6NvCr' │ 17282676603  │ 1000000 │ 17.282676603  │ 0.001   │
+│ 7       │ 'B62qnkBKwvdqjYHdXmLaJsNdRcdw7xNSBhxCqQhSBj2PLajX2YCyGRF' │ 3036016635   │ 1000000 │ 3.036016635   │ 0.001   │
+│ 8       │ 'B62qk5AEm3Uy2SDDuqnN1K3Gj3hUP3qyxw9cvP2qggCVpyiQo3NTi69' │ 1610555467   │ 1000000 │ 1.610555467   │ 0.001   │
+│ 9       │ 'B62qmqprUwxHxG6uGDQe48Xys9diJhunEqQNRuFC5a1KBUNsDaNADgj' │ 23313265     │ 1000000 │ 0.023313265   │ 0.001   │
+└─────────┴───────────────────────────────────────────────────────────┴──────────────┴─────────┴───────────────┴─────────┘
+Total Funds Required for Payout = 1441134807225 nanoMINA or 1441.134807225 MINA
+------------------- Summary & Totals ------------------
+Calculations based on entire pool
+Total Amounts Due To Payout: 1441.125667598
+Total Amounts Due To Stakers: 1441.125667598
+Total Coin Base Generated: 1440
+Total Payout Transaction Fees: 0.01
